@@ -2,6 +2,10 @@
 
 A modern food delivery app built with React Native and Expo.
 
+Try out the latest version of **FoodieHub** on your Android device:
+
+👉 [**Download FoodieHub APK**](https://drive.google.com/file/d/1sAKXdYkb6BCgRdK9cNGuprO8PZHdI7wv/view?usp=sharing)  
+
 ## Features
 
 - 🏠 Browse restaurants by category
@@ -17,14 +21,14 @@ A modern food delivery app built with React Native and Expo.
 FoodieHub/
 ├── src/
 │   ├── screens/
-│   │   ├── HomeScreen.js       # Main screen with restaurant list
-│   │   ├── RestaurantScreen.js # Restaurant menu and items
-│   │   ├── CartScreen.js       # Shopping cart and checkout
-│   │   ├── OrdersScreen.js     # Order history
-│   │   └── ProfileScreen.js    # User profile
+│   │   ├── HomeScreen.js       
+│   │   ├── RestaurantScreen.js 
+│   │   ├── CartScreen.js      
+│   │   ├── OrdersScreen.js     
+│   │   └── ProfileScreen.js    
 │   └── navigation/
-│       └── AppNavigator.js     # Navigation setup
-├── App.js                      # Main app entry
+│       └── AppNavigator.js     
+├── App.js                     
 └── package.json
 ```
 
